@@ -1,3 +1,5 @@
+### Variables
+
 Variables in Terraform are a way to parameterize configurations, making them more flexible and reusable. They allow users to define input values that can be used throughout the configuration files. There are three primary types of variables in Terraform:
 
 1. **Input Variables**: These are used to provide input to Terraform configurations. They can be defined in a `.tf` file using the `variable` block. For example:

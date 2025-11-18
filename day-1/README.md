@@ -1,4 +1,4 @@
-## Terraform Zero to Hero
+## Terraform Commands
 
 When a user runs `terraform init`, it prepares the working directory for other Terraform commands. This command performs several tasks:
 1. **Initializes the Backend**: Configures the backend where Terraform keeps its state file.
